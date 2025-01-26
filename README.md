@@ -88,3 +88,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 - `discord.py`: Biblioteca principal para interação com a API do Discord.
 - `yt-dlp`: Biblioteca para baixar vídeos do YouTube.
 - `ffmpeg`: Ferramenta de código aberto para processamento de áudio e vídeo.
+
+
+
+## Desenvolvedor Responsavel
+- Daniel Rodrigues
